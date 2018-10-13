@@ -8,7 +8,7 @@ public class RarFileCompressor implements FileCompressor {
 	@Override
 	public void compress(List<File> files) {
 
-		System.out.println("Compressesing with Rar Algo!");
+		System.out.println("Compressing with Rar Algo!");
 	}
 
 }

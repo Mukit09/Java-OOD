@@ -7,7 +7,7 @@ public class ZipFileCompressor implements FileCompressor {
 
 	public void compress(List<File> files) {
 		
-		System.out.println("Compressesing with Zip Algo!");
+		System.out.println("Compresseng with Zip Algo!");
 	}
 
 }
