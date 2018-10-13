@@ -3,7 +3,7 @@ package com.mukit.singleton;
 public class Singleton {
 
 	private volatile static Singleton singleton;
-	private Singleton() {}
+	private Singleton() { }
 	
 	public static Singleton getInstance() {
 		
